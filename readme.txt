@@ -5,6 +5,8 @@ A modern, responsive portfolio and showcase template.
 
 ---
 
+Demo: https://imihsanafridi.netlify.app/
+
 ## 🚀 Features
 
 - Responsive grid layout
@@ -59,6 +61,7 @@ For questions or collaborations, email: faqir.ullahhh@gmail.com
 ---
 
 © 2025 ihsan. All rights reserved.
+
 
 
 
